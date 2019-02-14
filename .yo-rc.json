@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "testehello",
+    "packageName": "com.teste.hello",
+    "packageFolder": "com/teste/hello",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "ZmQ4MmU5ZjZlNDA0MWQ4ZGQ1MjZiYjlkMDNkN2MwMzM3MTZjMjQ0YmM5Zjk2OTU5Mzc3Mjg1MTg5YWVlM2U5NGIzZDEyZTZiNzRhMGM1NmY4MjE5ZDU3MmY5OGY3ZTM0OTk0YzlmY2I2YzEzZTNlNDU3ZDY1ZGVhYTdiZmVmNTg=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "kennedyAssuncao",
+  "repository-name": "testehello"
+}
